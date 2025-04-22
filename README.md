@@ -4,6 +4,8 @@
 
 A robust store monitoring system that tracks store uptime and downtime, generating comprehensive reports based on business hours and timezone data. The system processes store status data, business hours, and timezone information to calculate uptime and downtime metrics for different time periods.
 
+Note: The generated reports are in the reports folder
+
 ## Table of Contents
 
 - [Overview](#overview)
